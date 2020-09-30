@@ -1,0 +1,19 @@
+.nav-link{
+    text-align: center;
+}
+.nav-item > a{
+    margin-left: 60px;
+}
+.navbar{
+    background-color:rgb(0,255,173) !important; 
+    height: 100px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.nav-link:hover{
+    background-color: rgb(0,195,234);
+    border-radius: 10px;
+}
+
+
